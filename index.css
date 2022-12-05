@@ -100,7 +100,7 @@ color: pink;
 /*======= Create a selector for the address tag in the contact-section class to have the following styles:
    line-height: 2;
 */
-footer address {
+.contact-section address {
   line-height: 2;
 }
 
